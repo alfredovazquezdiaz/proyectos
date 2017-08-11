@@ -1,0 +1,6 @@
+C:\Users\Emmanuel\Documents\proyectos\pratica 2\pratica 2\obj\Debug\pratica 2.csprojResolveAssemblyReference.cache
+C:\Users\Emmanuel\Documents\proyectos\pratica 2\pratica 2\bin\Debug\pratica 2.exe.config
+C:\Users\Emmanuel\Documents\proyectos\pratica 2\pratica 2\bin\Debug\pratica 2.exe
+C:\Users\Emmanuel\Documents\proyectos\pratica 2\pratica 2\bin\Debug\pratica 2.pdb
+C:\Users\Emmanuel\Documents\proyectos\pratica 2\pratica 2\obj\Debug\pratica 2.exe
+C:\Users\Emmanuel\Documents\proyectos\pratica 2\pratica 2\obj\Debug\pratica 2.pdb

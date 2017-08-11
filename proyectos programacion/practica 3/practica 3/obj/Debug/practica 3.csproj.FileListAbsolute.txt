@@ -1,0 +1,5 @@
+C:\Users\Emmanuel\Documents\proyectos\practica 3\practica 3\bin\Debug\practica 3.exe.config
+C:\Users\Emmanuel\Documents\proyectos\practica 3\practica 3\bin\Debug\practica 3.exe
+C:\Users\Emmanuel\Documents\proyectos\practica 3\practica 3\bin\Debug\practica 3.pdb
+C:\Users\Emmanuel\Documents\proyectos\practica 3\practica 3\obj\Debug\practica 3.exe
+C:\Users\Emmanuel\Documents\proyectos\practica 3\practica 3\obj\Debug\practica 3.pdb
